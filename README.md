@@ -1,4 +1,5 @@
-This Object-Oriented Programming (OOP) project is a quiz game that tests the user's knowledge on a variety of topics. The game will be written in Java and will feature multiple-choice questions with four possible answers. The user will be able to select an answer and receive feedback on whether they got the question right or wrong. The game will also keep track of the user's score and display it at the end of the game. Additionally, the game will have a timer to limit how long the user has to answer each question. Finally, there will be an option for users to save their progress and resume playing at a later time.
+This C++ Object-Oriented Programming (OOP) project is a quiz game. The game will ask the user a series of questions and the user will be able to answer them. The game will keep track of the user's score and display it at the end of the game. The questions can be customized by the user, allowing for an infinite number of different quizzes. The game also has a timer feature, which allows users to set a time limit for each question. Additionally, there is an option to save the user's progress so they can continue playing at a later time. Finally, there are various levels of difficulty that can be chosen by the user, making it suitable for all ages and skill levels.
+
 
 Team members & contributors
 
